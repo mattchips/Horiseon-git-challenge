@@ -2,7 +2,7 @@
 
 ## Description
 
-A website meant to showcase Horiseon Services' offerings 
+A website meant to showcase Horiseon's services
 
 Added accessibility through image alt attributes
 
