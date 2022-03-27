@@ -18,4 +18,4 @@ Implemented better semantic elements
 
 ## Website
  
-file:///D:/School/urban-octo-telegram/Develop/index.html#online-reputation-management
+https://mattchips.github.io/Horiseon-git-challenge/
