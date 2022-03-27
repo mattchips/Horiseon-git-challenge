@@ -1,6 +1,6 @@
 # Horiseon Social Solutions Services, Inc
 
-## Description
+# Description
 
 A website meant to showcase Horiseon Services' offerings 
 
