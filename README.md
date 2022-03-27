@@ -1,6 +1,7 @@
 # Horiseon Social Solutions Services, Inc
 
 ## Description
+
 A website meant to showcase Horiseon Services' offerings 
 
 Added accessibility through image alt attributes
@@ -10,9 +11,6 @@ Fixed header section links
 
 
 Implemented better semantic elements
-## Built With 
-* HTML
-* CSS
 
 # Website Preview
 
@@ -20,3 +18,4 @@ Implemented better semantic elements
 
 # Website
  
+file:///D:/School/urban-octo-telegram/Develop/index.html#online-reputation-management
